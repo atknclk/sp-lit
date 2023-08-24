@@ -1,0 +1,19 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "name": "Camping",
+      "members": [
+        {
+          "id": 1,
+          "name": "John"
+        },
+        {
+          "id": 2,
+          "name": "Mary"
+        }
+      ],
+      "date": "2015-01-01"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+export const groupsRoute = 'http://localhost:3000/groups';
